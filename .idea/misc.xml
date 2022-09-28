@@ -14,9 +14,15 @@
         <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/drawable/ic_folder_white_24dp.xml" value="0.123" />
         <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/drawable/list_item_selecto.xml" value="0.123" />
         <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/drawable/red_button_drawable.xml" value="0.123" />
+        <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/layout/fragment_note_detail.xml" value="0.11197916666666667" />
         <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/layout/fragment_note_list.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/layout/fragment_splash.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/layout/layout_filter.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/layout/layout_multiselection_toolbar.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/layout/layout_note_detail_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/layout/layout_note_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/Ghedamsi/Documents/architecture-components-samples-main/CleanNote/app/src/main/res/layout/layout_searchview_toolbar.xml" value="0.1" />
       </map>
     </option>
   </component>
