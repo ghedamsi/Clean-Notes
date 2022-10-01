@@ -4,10 +4,13 @@ import dependencies.Application
 import dependencies.Versions
 import dependencies.Java
 import dependencies.SupportDependencies
+import dependencies.AnnotationProcessing
 
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'kotlin-parcelize'
+
 }
 
 android {
@@ -62,6 +65,19 @@ dependencies {
     implementation SupportDependencies.material_design
     implementation SupportDependencies.swipe_refresh_layout
 
+    //dependencies
+    implementation Dependencies.dagger
+    implementation Dependencies.firebase_firestore
+    implementation Dependencies.firebase_auth
+    implementation Dependencies.firebase_analytics
+    implementation Dependencies.firebase_crashlytics
+    implementation Dependencies.kotlin_coroutines
+    implementation Dependencies.kotlin_coroutines_android
+    implementation Dependencies.kotlin_coroutines_play_services
+
+
+    //Annotation Processing
+    implementation AnnotationProcessing.dagger_compiler
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
